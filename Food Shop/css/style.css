@@ -1,0 +1,9 @@
+h1{
+    font-family: "Dancing Script", serif;
+}
+
+.carousel-item {
+   min-height: 50vh;
+   width: 100%;
+   background-image:cover ;
+}
